@@ -2,6 +2,10 @@
 
 Complete collection of production-ready workflow patterns for Flowise AgentFlow v2.
 
+📋 **[View Project Progress & Next Steps](PROJECT_PROGRESS.md)** - Development roadmap and session plan
+
+---
+
 ## 📚 Pattern Index
 
 ### Core Patterns (1-6)
